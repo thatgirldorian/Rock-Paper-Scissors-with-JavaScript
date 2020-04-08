@@ -9,7 +9,7 @@ The possible outcomes in this game are:
 - Scissors cut paper.
 - Paper covers rock.
 - If there’s a tie, then the game ends in a draw.
-- Our code will break the game into four parts:
+
 
 This program:
 
