@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors-with-JavaScript
 
 <h3>Function & Description:</h3>
-This is a program for the Rock Paper Scissors game. A player chooses either rock, paper, or scissors. The items are compared, and whichever player chooses the more powerful item wins.
+This is a program for the Rock Paper Scissors game. Players choose either rock, paper, or scissors. The items are compared, and whichever player chooses the more powerful item wins.
 
 The possible outcomes in this game are:
 
@@ -13,10 +13,10 @@ The possible outcomes in this game are:
 
 This program:
 
-- gets the user’s choice.
-- gets the computer’s choice.
-- compares the two choices and determines a winner.
-- displays the results.
+- gets the user’s choice
+- gets the computer’s choice
+- compares the two choices and determines a winner
+- displays the results
 
 
 <h3>Technology Used:</h3>
