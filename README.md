@@ -5,10 +5,10 @@ This is a program for the Rock Paper Scissors game. Players choose either rock, 
 
 The possible outcomes in this game are:
 
-- Rock destroys scissors.
-- Scissors cut paper.
-- Paper covers rock.
-- If there’s a tie, then the game ends in a draw.
+- Rock destroys scissors
+- Scissors cut paper
+- Paper covers rock
+- If there’s a tie, then the game ends in a draw
 
 
 This program:
